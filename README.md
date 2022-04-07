@@ -10,8 +10,13 @@ Para instlalar ejecute este comando su terminal:
 # Cristal de nieve.
 ![Image text](https://github.com/jogonzalez90/Spyder_python/blob/main/turtle.png)
 
+# Ahorcado.
+![Image text](https://github.com/jogonzalez90/Spyder_python/blob/main/ahorcado_2.png)
+
 # Entorno de desarrollo.
 Spyder Python.
 
 # Bibliografía.
 Raspberry Pi Beginner's Guide.
+Inventa tus propios juegos de computadora 
+con Python 3 edición.

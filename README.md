@@ -13,6 +13,9 @@ Para instlalar ejecute este comando su terminal:
 # Ahorcado.
 ![Image text](https://github.com/jogonzalez90/Spyder_python/blob/main/ahorcado_2.png)
 
+# Rose.
+![Image text]( https://github.com/jogonzalez90/Spyder_python/blob/main/rose.png)
+
 # Entorno de desarrollo.
 Spyder Python.
 
